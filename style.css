@@ -1,0 +1,109 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.edits
+{
+    background-color: palegreen;
+}
+.container
+{
+    background-color:green;
+}
+.cont
+{
+    background-color:lightgreen;
+}
+h2{
+    color:yellow;
+}
+u{
+    padding-left: 50px;
+}
+form{
+    padding-left:0;
+    padding-top: 30px;
+    border:2px solid black;
+    margin-left:10px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    background-color: lightseagreen;
+}
+#link
+{
+   margin-right: 700px; 
+   margin-left: 500px;
+   margin-top: 100px;
+}
+#align
+{
+    text-align: center;
+}
+#foot
+{
+    text-align: center;
+    background-color: black;
+}
+#effect
+{
+    color:red;
+}
+#about
+{
+    background-color: green;
+}
+.main
+{
+    margin-left: 48px;
+}
+#frame
+{
+    color:black;
+}
+#email
+{
+margin-left: 82px;
+}
+#passs
+{
+margin-left: 53px;
+}
+#name
+{
+margin-left:46px ;
+}
+#log
+{
+    margin-left:150px;
+}
+#colour
+{
+    color:brown;
+}
+.sign
+{
+    margin-right: 30%;
+    margin-left: 30%;
+    margin-top: 45px;
+}
+.space
+{
+    margin-left: 600px;
+}
+.you
+{
+    border: 2px solid black;
+    margin-left: 340px;
+    margin-right: 515px;
+    background-color:lightblue;
+}
+.colour
+{
+    background-color: burlywood;
+}
+.foots
+{
+    margin-top:200px;
+}
